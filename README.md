@@ -1,13 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm SarahMaheen</h1>
-<h3 align="center">I provide shape to my unique ideas as a full stack developer learner</h3>
+<h3 align="center">I provide shape to my unique ideas as a full stack developer </h3>
 
-- 🌱 I’m currently learning **with new ideas**
+- 🌱 Experienced with ""MERN Stack**
+
+- 💻 Worked with third party integrations and deployment
 
 - 📫 How to reach me **sarahmaheen02@gmail.com**
 
-- ⚡ Fun fact **inquisitive nature for a new environment**
+- ⚡ Fun fact **cleaning around me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
