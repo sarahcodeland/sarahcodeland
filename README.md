@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SarahMaheen</h1>
 <h3 align="center">I provide shape to my unique ideas as a full stack developer </h3>
 
-- 🌱 Experienced with ""MERN Stack**
+- 🌱 Experienced with **MERN Stack**
 
 - 💻 Worked with third party integrations and deployment
 
