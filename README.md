@@ -3,13 +3,25 @@
 <h1 align="center">Hi 👋, I'm SarahMaheen</h1>
 <h3 align="center">I provide shape to my unique ideas as a full stack developer </h3>
 
-- 🌱 Experienced with **MERN Stack**
+🚀 Technologies I Have Worked With
+🌐 Frontend Development: Crafting modern, responsive, and dynamic interfaces with React.js, Next.js, TypeScript, HTML, CSS, and JavaScript.
+⚙️ Backend Development: Building scalable and robust server-side applications using Node.js, Express.js, Django, and Flask.
+📊 Database Management: Expertise in MySQL, MongoDB, PostgreSQL, and Redis, ensuring efficient data handling and integrity.
+☁️ Cloud & Storage Solutions: Hands-on experience with AWS, GCP, and media management tools like Cloudinary for seamless integration.
+🔧 DevOps Practices: Streamlining workflows using Docker, Kubernetes, and CI/CD pipelines for efficient deployment and scalability.
+🔗 API Integration: Implemented RESTful APIs and integrated services like Assembly AI and Stripe for advanced capabilities.
+💻 Programming Languages: Proficient in Python, C++, PHP, SQL, and Java for versatile application development.
+🤖 AI & Machine Learning: Leveraged TensorFlow, Keras, NLTK, and SpaCy to create intelligent and automated solutions.
+📱 Mobile Development: Developed performance-optimized mobile apps with Flutter, focusing on smooth user experiences.
+🛠️ Tools & Platforms: Skilled in Git, GitHub, Visual Studio Code, and WSL for a seamless development process.
+💡 Passionate about solving real-world problems, collaborating on innovative projects, and constantly evolving through learning and experimentation.
 
-- 💻 Worked with third party integrations and deployment
 
-- 📫 How to reach me **sarahmaheen02@gmail.com**
 
-- ⚡ Fun fact **cleaning around me!**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
