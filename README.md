@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤵 I'm web developer and Bachelor's Degree in Computer Application.<br>🔭 I worked on integrations of firebase Oauth, nodemailer, cloudinary, stripe payment, GSAPn framer for animations and AI apis,<br>🤖 I like to learn new things and ideas, technologies and meet new people!<br>🌱 I’m currently learning Microservice Architechture.<br>👨‍💻 All of my projects are available at [portfolio](https://sarahmaheen.netlify.app/).<br>💬 Ask me about . MERN, React, TypeScript, NextJs, <br>APIs, Html5, Css3, JS.<br>📫 How to reach me sarahmaheen02@gmail.com<br><br><br>
+🤵 I'm web developer and Bachelor's Degree in Computer Application.<br>🔭 I worked on integrations of firebase Oauth, nodemailer, cloudinary, stripe payment, GSAPn framer for animations and AI apis,<br>🤖 I like to learn new things and ideas, technologies and meet new people!<br>🌱 I’m currently learning Microservice Architechture.<br>👨‍💻 All of my projects are available at [portfolio](https://sarahmaheen.netlify.app/).<br>💬 Ask me about . MERN, React, TypeScript, NextJs, APIs, Html5, Css3, JS.<br>📫 How to reach me sarahmaheen02@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
