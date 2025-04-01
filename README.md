@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/8e/22/2d/8e222d025a5cf82d3980e3a9b937e3ee.jpg" alt="My Picture" width="300" height="300" />
+<img src="https://i.pinimg.com/736x/8e/22/2d/8e222d025a5cf82d3980e3a9b937e3ee.jpg" alt="My Picture" width="100%" height="300" />
 
 # 💫 About Me:
 🤵 I'm web developer and Bachelor's Degree in Computer Application.<br>🔭 I worked on integrations of firebase Oauth, nodemailer, cloudinary, stripe payment, GSAPn framer for animations and AI apis,<br>🤖 I like to learn new things and ideas, technologies and meet new people!<br>🌱 I’m currently learning Microservice Architechture.<br>👨‍💻 All of my projects are available at [portfolio](https://sarahmaheen.netlify.app/).<br>💬 Ask me about . MERN, React, TypeScript, NextJs, APIs, Html5, Css3, JS, DSA.<br>📫 How to reach me sarahmaheen02@gmail.com<br><br><br>
